@@ -1,15 +1,3 @@
-/.idea/
-/target/
-/framework-core/target/
-/common/target/
-/simple-api/target/
-/simple-server/target/
-/simple-client/target/
-/simple-server/simple-server.iml
-/simple-client/simple-client.iml
-/common/common.iml
-/framework-core/framework-core.iml
-/simple-api/simple-api.iml
 
 /.settings
 */.settings

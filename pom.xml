@@ -27,11 +27,12 @@
         <protostuff.version>1.7.2</protostuff.version>
     </properties>
     <modules>
-        <module>simple-server</module>
+
         <module>simple-client</module>
-        <module>common</module>
+        <module>simple-server</module>
         <module>framework-core</module>
-        <module>simple-api</module>
+        <module>framework-common</module>
+        <module>framework-api</module>
     </modules>
     <dependencies>
         <!-- lombok -->
